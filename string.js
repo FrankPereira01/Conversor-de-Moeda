@@ -7,3 +7,4 @@ if(notaDoAluno > notaDeCorte){
 } else{
     console.log("Você foi reprovado")
 }
+hello
